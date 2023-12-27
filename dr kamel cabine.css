@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: rgb(224, 197, 250);
+}
+header{
+    background-color: rgb(206, 154, 255);
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+#title{
+    color: rgb(118, 3, 219);
+    padding: 22px 10px;
+}
+.home{
+    color: white;
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+}
+.intro{
+    padding: 20px 360px;
+}
+#12{
+
+}
+#time{
+    padding: 0px 200px;
+}
+.table,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+padding: 16px 103px;
+}
+.teck{
+    justify-content: center;
+    padding: 20px 360px;
+}
+#here{
+    color: blue;
+}
+#may{
+    display: flex;
+}
+footer{
+    background-color: rgb(206, 154, 255);
+    padding: 10px 22px;
+}
+.c{
+    justify-content: center;
+}
